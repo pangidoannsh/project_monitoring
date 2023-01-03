@@ -1,3 +1,5 @@
+sebelumnya saya ingin memberitahukan bahwa file database saya sediakan pada github ini juga dengan nama "db_project_monitoring"
+
 Berikut merupakan tampilan project ini, dimulai dari halaman "project" yang akan menampilkan sleuruh data project untuk di monitoring
 
 ![Screenshot_5](https://user-images.githubusercontent.com/74215225/210372497-b4e54ccb-b0f9-4b2c-89d6-48c7c63db370.png)

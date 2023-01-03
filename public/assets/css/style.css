@@ -1,0 +1,55 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    animation-name: card;
+    animation-duration: .8s;
+}
+
+td {
+    padding-top: 16px;
+    padding-bottom: 16px;
+
+}
+
+#btn-cancel {
+    cursor: pointer;
+}
+
+.progress-bar div {
+    height: 8px;
+    border-radius: 9999px;
+}
+
+.progress-thumb {
+    animation-name: progress;
+    animation-duration: 1s;
+    /* animation-delay: .5s; */
+}
+
+@keyframes card {
+    from {
+        opacity: 0;
+        transform: scale(.7);
+    }
+
+    to {
+        transform: scale(1);
+        opacity: 100%;
+    }
+}
+
+.photo-profile {
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    border-radius: 99999px;
+}
+
+@keyframes progress {
+    0% {
+        width: 0;
+    }
+
+}
